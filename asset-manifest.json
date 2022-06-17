@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/matthew-myers.dalle.io/static/css/main.92e41723.chunk.css",
+    "main.js": "/matthew-myers.dalle.io/static/js/main.637d1a6f.chunk.js",
+    "main.js.map": "/matthew-myers.dalle.io/static/js/main.637d1a6f.chunk.js.map",
+    "runtime-main.js": "/matthew-myers.dalle.io/static/js/runtime-main.11552abf.js",
+    "runtime-main.js.map": "/matthew-myers.dalle.io/static/js/runtime-main.11552abf.js.map",
+    "static/js/2.50d32d25.chunk.js": "/matthew-myers.dalle.io/static/js/2.50d32d25.chunk.js",
+    "static/js/2.50d32d25.chunk.js.map": "/matthew-myers.dalle.io/static/js/2.50d32d25.chunk.js.map",
+    "index.html": "/matthew-myers.dalle.io/index.html",
+    "precache-manifest.5cafa43adc0270b4df5ca06c9c3a8f99.js": "/matthew-myers.dalle.io/precache-manifest.5cafa43adc0270b4df5ca06c9c3a8f99.js",
+    "service-worker.js": "/matthew-myers.dalle.io/service-worker.js",
+    "static/css/main.92e41723.chunk.css.map": "/matthew-myers.dalle.io/static/css/main.92e41723.chunk.css.map",
+    "static/js/2.50d32d25.chunk.js.LICENSE.txt": "/matthew-myers.dalle.io/static/js/2.50d32d25.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11552abf.js",
+    "static/js/2.50d32d25.chunk.js",
+    "static/css/main.92e41723.chunk.css",
+    "static/js/main.637d1a6f.chunk.js"
+  ]
+}
